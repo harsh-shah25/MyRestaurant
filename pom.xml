@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.prashantjain</groupId>
-	<artifactId>YummyRest</artifactId>
+	<artifactId>KhaanaKhazana</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>YummyRest</name>
 	<description>YummyRest</description>
