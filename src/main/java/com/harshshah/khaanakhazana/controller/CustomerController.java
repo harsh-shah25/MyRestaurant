@@ -1,7 +1,7 @@
-package com.prashantjain.yummyrest.controller;
+package com.harshshah.khaanakhazana.controller;
 
-import com.prashantjain.yummyrest.dto.CustomerRequest;
-import com.prashantjain.yummyrest.service.CustomerService;
+import com.harshshah.khaanakhazana.dto.CustomerRequest;
+import com.harshshah.khaanakhazana.service.CustomerService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

@@ -1,6 +1,6 @@
-package com.prashantjain.yummyrest.repo;
+package com.harshshah.khaanakhazana.repo;
 
-import com.prashantjain.yummyrest.entity.Customer;
+import com.harshshah.khaanakhazana.entity.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

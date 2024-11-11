@@ -1,4 +1,4 @@
-package com.prashantjain.yummyrest;
+package com.harshshah.khaanakhazana;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

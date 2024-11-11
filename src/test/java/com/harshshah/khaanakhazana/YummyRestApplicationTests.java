@@ -1,4 +1,4 @@
-package com.prashantjain.yummyrest;
+package com.harshshah.khaanakhazana;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

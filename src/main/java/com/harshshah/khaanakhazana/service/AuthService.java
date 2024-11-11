@@ -4,12 +4,12 @@
 //}
 
 // AuthService.java
-package com.prashantjain.yummyrest.service;
+package com.harshshah.khaanakhazana.service;
 
-import com.prashantjain.yummyrest.dto.LoginRequest;
-import com.prashantjain.yummyrest.dto.LoginResponse;
-import com.prashantjain.yummyrest.entity.Customer;
-import com.prashantjain.yummyrest.repo.CustomerRepo;
+import com.harshshah.khaanakhazana.dto.LoginRequest;
+import com.harshshah.khaanakhazana.dto.LoginResponse;
+import com.harshshah.khaanakhazana.entity.Customer;
+import com.harshshah.khaanakhazana.repo.CustomerRepo;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import java.util.Optional;

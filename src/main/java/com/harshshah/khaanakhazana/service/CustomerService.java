@@ -1,14 +1,11 @@
-package com.prashantjain.yummyrest.service;
+package com.harshshah.khaanakhazana.service;
 
-import com.prashantjain.yummyrest.dto.CustomerRequest;
-import com.prashantjain.yummyrest.dto.CustomerResponse;
-import com.prashantjain.yummyrest.entity.Customer;
-import com.prashantjain.yummyrest.mapper.CustomerMapper;
-import com.prashantjain.yummyrest.repo.CustomerRepo;
-import jakarta.validation.Valid;
+import com.harshshah.khaanakhazana.dto.CustomerRequest;
+import com.harshshah.khaanakhazana.entity.Customer;
+import com.harshshah.khaanakhazana.mapper.CustomerMapper;
+import com.harshshah.khaanakhazana.repo.CustomerRepo;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.RequestBody;
 
 @Service
 @RequiredArgsConstructor

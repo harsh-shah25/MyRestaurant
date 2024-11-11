@@ -1,10 +1,10 @@
 
 // AuthController.java
-package com.prashantjain.yummyrest.controller;
+package com.harshshah.khaanakhazana.controller;
 
-import com.prashantjain.yummyrest.dto.LoginRequest;
-import com.prashantjain.yummyrest.dto.LoginResponse;
-import com.prashantjain.yummyrest.service.AuthService;
+import com.harshshah.khaanakhazana.dto.LoginRequest;
+import com.harshshah.khaanakhazana.dto.LoginResponse;
+import com.harshshah.khaanakhazana.service.AuthService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

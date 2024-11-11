@@ -1,4 +1,4 @@
-package com.prashantjain.yummyrest.dto;
+package com.harshshah.khaanakhazana.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

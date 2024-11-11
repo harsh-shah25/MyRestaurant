@@ -1,7 +1,7 @@
-package com.prashantjain.yummyrest.mapper;
+package com.harshshah.khaanakhazana.mapper;
 
-import com.prashantjain.yummyrest.dto.CustomerRequest;
-import com.prashantjain.yummyrest.entity.Customer;
+import com.harshshah.khaanakhazana.dto.CustomerRequest;
+import com.harshshah.khaanakhazana.entity.Customer;
 import org.springframework.stereotype.Service;
 
 @Service

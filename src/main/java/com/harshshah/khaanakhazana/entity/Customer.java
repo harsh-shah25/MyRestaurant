@@ -1,4 +1,4 @@
-package com.prashantjain.yummyrest.entity;
+package com.harshshah.khaanakhazana.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
